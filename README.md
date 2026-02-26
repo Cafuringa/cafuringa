@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I hold a degree in Systems Analysis and Development.br><br>⚡ In my free time, I enjoy exploring new technologies and optimizing processes.</p>
+<p align="left"><🎓 I hold a degree in Systems Analysis and Development.br><br>⚡ In my free time, I enjoy exploring new technologies and optimizing processes.</p>
 
 ###
 
